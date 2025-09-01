@@ -1,6 +1,6 @@
 # FlashLearn AI - Smart Learning Platform
 
-A modern, AI-powered learning platform that transforms any document into interactive flashcards and quizzes.
+A modern, AI-powered learning platform that transforms any document into interactive flashcards and quizzes. Built by Brian Kennedy and Lynder Scheville
 
 ## 🚀 Features
 
